@@ -14,4 +14,4 @@ This project utilizes **Python and SQL** to analyze large-scale public education
 * **Mechanism Implementation:** Engineered Python functions to automate the retrieval of specific school district metrics from the SQL database.
 
 ## How to View the Analysis
-You can view the full step-by-step analysis, including data visualizations, by opening the [Phase_III_1 (2).ipynb](notebooks/Phase_III_1%20(2).ipynb) file in the notebooks folder.
+You can view the full step-by-step analysis, including data visualizations, by opening the [GA_School_Statistics_Analysis.ipynb](notebooks/GA_School_Statistics_Analysis.ipynb) file in the notebooks folder.
